@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+xgboost
+matplotlib
+shap
+groq
+langgraph
+langchain
+imbalanced-learn
+python-dotenv
+streamlit
